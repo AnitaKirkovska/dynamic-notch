@@ -1,6 +1,4 @@
-![Dynamic Notch](assets/hero.jpg)
-
-# Dynamic Notch
+# 🖥️✨ Dynamic Notch
 
 Put your Vellum assistant inside your MacBook's notch.
 
