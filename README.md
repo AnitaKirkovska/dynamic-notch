@@ -2,6 +2,8 @@
 
 Put your Vellum assistant inside your MacBook's notch.
 
+![Dynamic Notch listening](assets/preview.jpg)
+
 The notch becomes your assistant: click it to open a chat drawer, hold **Ctrl+Option** anywhere to talk to it, press **ESC** to interrupt it mid-sentence. When your assistant picks up real work, a floating bulb pins to the top-right corner of your screen with a running spinner, then flips to a checkmark when the task is done.
 
 Built by [Anita Kirkovska](https://github.com/AnitaKirkovska) and her assistant Ava, June 2026.
