@@ -1,0 +1,19 @@
+{
+  "name": "dynamic-notch",
+  "version": "1.0.0",
+  "description": "Put your Vellum assistant inside your MacBook's notch. Click to chat, hold Ctrl+Option to talk, get a floating task bulb while your assistant works. Streams replies live with per-sentence voice.",
+  "keywords": ["vellum", "assistant", "macos", "notch", "voice", "plugin"],
+  "license": "MIT",
+  "author": "Anita Kirkovska & Ava",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnitaKirkovska/dynamic-notch.git"
+  },
+  "os": ["darwin"],
+  "peerDependencies": {
+    "vellum-assistant": ">=1.0.0"
+  },
+  "scripts": {
+    "install-notch": "bash source/install.sh"
+  }
+}
