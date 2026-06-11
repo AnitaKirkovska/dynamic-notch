@@ -15,5 +15,12 @@
   },
   "scripts": {
     "install-notch": "bash source/install.sh"
+  },
+  "vellum": {
+    "artifact": {
+      "label": "Dynamic Notch",
+      "url": "https://github.com/AnitaKirkovska/dynamic-notch/releases/download/v1.0.0/DynamicNotch.dmg",
+      "sha256": ""
+    }
   }
 }
